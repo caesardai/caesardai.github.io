@@ -9,19 +9,17 @@ profile:
   image: caesarProfile1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-
-
-# <p>555 your office number</p>
-# <p>123 your address street</p>
-# <p>Your City, State 12345</p>
+    <p style="font-size: 13px;">Carney Institute for Brain Science</p>
+    <p style="font-size: 13px;">164 Angell St, Providence RI 02906</p>
+# <p>Providence, RI 02906</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi, I'm Caesar. I'm a post-bacc RA at Brown Univeristy working with [Matt Nassar](https://sites.brown.edu/mattlab/). Currently, I'm working on computational neuroscience projects related to learning, memory, and decision making in brains.
+Hi, I'm Caesar. I'm a post-bacc RA at Brown University working with [Matt Nassar](https://sites.brown.edu/mattlab/). Currently, I'm working on computational neuroscience projects related to learning, memory, and decision making in our brains.
 
-I'm interested in studying higher level processes in the human brain that advance Brain-Computer Interface (BCI). How do we process and communicate inforamtion and how can we make it more efficient?
+I'm interested in studying higher level processes in the human brain that advance Brain-Computer Interface (BCI). How do our brains process and communicate information and how can we improve that process?
 
 Recently, I graduated from Haverford College with a degree in Computer Science and Mathematics. I was fortunate to be mentored by [Dianna Xu](http://mainline.brynmawr.edu/~dxu/) through my senior thesis, [David Mount](https://www.cs.umd.edu/users/mount/) and [Auguste Gezalyan](https://www.cs.umd.edu/people/octavo) through the [REU-CAAR Program](https://www.cs.umd.edu/projects/reucaar/index.html).
 
