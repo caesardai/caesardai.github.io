@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started at Learning, Memory & Decision Lab at Brown!
+Started at [Learning, Memory & Decision Lab](https://sites.brown.edu/mattlab/) at Brown!
