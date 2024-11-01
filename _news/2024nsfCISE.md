@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-Awarded [**NSF CSGrad4US Graduate Fellowship**](https://new.nsf.gov/cise/graduate-fellowships)
+Awarded [**NSF CISE Graduate Fellowship (CSGrad4US)**](https://new.nsf.gov/cise/graduate-fellowships)
 
 
 
