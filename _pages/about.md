@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: caesarProfile1.jpg
+  image: caesarAOF1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p style="font-size: 13px;">Carney Institute for Brain Science</p>
